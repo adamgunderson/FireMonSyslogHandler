@@ -1,2 +1,2 @@
 # FireMonSyslogHandler
-A syslog listener that handles external things for FireMon, like posting Slack messages and creating Policy Planner tickets based on FireMon Asset Manger syslog events.
+A syslog listener that handles external things for FireMon. Functionality includes posting Slack messages from Security Manager events, and creating Policy Planner tickets based on Asset Manger events.
